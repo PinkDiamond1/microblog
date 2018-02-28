@@ -1,8 +1,8 @@
 //Edit the below
 
-var contract = '0x526536ae14314790d82034043eea3ce54313f5e3';
+var contract = '0x6e4c2cb1d29fe3adff56f40df69f727b498d1213';
 var maxPosts = 5;
-var twitter = 'SwaroopH';
-var facebook = 'SwaroopHegde';
-var github = 'SwaroopH';
+var twitter = 'EthVigil';
+var facebook = 'EthVigil';
+var github = 'EthVigil';
 var prefix = 'https://alpha-api.ethvigil.com/contract/' + contract;
